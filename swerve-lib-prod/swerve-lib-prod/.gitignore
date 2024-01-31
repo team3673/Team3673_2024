@@ -1,0 +1,14 @@
+# Gradle build outputs
+/.gradle/
+/build/
+/examples/*/build/
+bin/
+
+# Intellij Project Files
+/.idea/
+**/.vscode/
+
+**/.settings/
+.classpath
+.project
+

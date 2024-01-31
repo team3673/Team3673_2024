@@ -177,6 +177,7 @@ public final class Mk4iSwerveModuleHelper {
             int steerEncoderPort,
             double steerOffset
     ) {
+System.out.println("Initializing CANSparkMax " + driveMotorPort + " & " + steerMotorPort);
         return new SwerveModuleFactory<>(
                 gearRatio.getConfiguration(),
                 getNeoDriveFactory(configuration),
