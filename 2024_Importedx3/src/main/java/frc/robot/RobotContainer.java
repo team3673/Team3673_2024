@@ -13,6 +13,7 @@ import edu.wpi.first.wpilibj2.command.InstantCommand;
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import edu.wpi.first.wpilibj2.command.button.Trigger;
 =======
 import edu.wpi.first.wpilibj2.command.button.Button;
@@ -23,6 +24,9 @@ import edu.wpi.first.wpilibj2.command.button.Button;
 =======
 import edu.wpi.first.wpilibj2.command.button.Button;
 >>>>>>> 8d7fe343c70282e1838ef663e885af7dd8e4d130
+=======
+import edu.wpi.first.wpilibj2.command.button.Button;
+>>>>>>> 8d7fe34 (2024 Robot Code)
 import frc.robot.commands.DefaultDriveCommand;
 import frc.robot.subsystems.DrivetrainSubsystem;
 import edu.wpi.first.wpilibj.Joystick;
@@ -75,6 +79,7 @@ public class RobotContainer {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
    // new Trigger(m_leftStick::getTrigger)
             // No requirements because we don't need to interrupt anything
            // .onTrue(m_drivetrainSubsystem::zeroGyroscope);
@@ -93,6 +98,11 @@ public class RobotContainer {
             // No requirements because we don't need to interrupt anything
             .whenPressed(m_drivetrainSubsystem::zeroGyroscope);
 >>>>>>> 8d7fe343c70282e1838ef663e885af7dd8e4d130
+=======
+    new Button(m_leftStick::getTrigger)
+            // No requirements because we don't need to interrupt anything
+            .whenPressed(m_drivetrainSubsystem::zeroGyroscope);
+>>>>>>> 8d7fe34 (2024 Robot Code)
   }
 
   /**

@@ -117,6 +117,7 @@ public class DrivetrainSubsystem extends SubsystemBase {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 System.out.println("DrivetrainSubsystem:117 Initialing Front Left module with CAN IDs " + FRONT_LEFT_MODULE_DRIVE_MOTOR + " & " + FRONT_LEFT_MODULE_STEER_MOTOR);
 =======
 >>>>>>> 8d7fe343c70282e1838ef663e885af7dd8e4d130
@@ -124,6 +125,8 @@ System.out.println("DrivetrainSubsystem:117 Initialing Front Left module with CA
 >>>>>>> 8d7fe343c70282e1838ef663e885af7dd8e4d130
 =======
 >>>>>>> 8d7fe343c70282e1838ef663e885af7dd8e4d130
+=======
+>>>>>>> 8d7fe34 (2024 Robot Code)
     m_frontLeftModule = Mk4iSwerveModuleHelper.createNeo(        
             // This parameter is optional, but will allow you to see the current state of the module on the dashboard.
             tab.getLayout("Front Left Module", BuiltInLayouts.kList)

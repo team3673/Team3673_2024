@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "name": "NavX",
     "version": "2024.1.0",
     "uuid": "cb311d09-36e9-4143-a032-55bb2b94443b",
@@ -16,6 +17,8 @@
 >>>>>>> 8d7fe343c70282e1838ef663e885af7dd8e4d130
 =======
 >>>>>>> 8d7fe343c70282e1838ef663e885af7dd8e4d130
+=======
+>>>>>>> 8d7fe34 (2024 Robot Code)
     "name": "KauaiLabs_navX_FRC",
     "version": "2023.0.4",
     "uuid": "cb311d09-36e9-4143-a032-55bb2b94443b",
@@ -25,15 +28,19 @@
     "jsonUrl": "https://dev.studica.com/releases/2023/NavX.json",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 8d7fe343c70282e1838ef663e885af7dd8e4d130
 =======
 >>>>>>> 8d7fe343c70282e1838ef663e885af7dd8e4d130
 =======
 >>>>>>> 8d7fe343c70282e1838ef663e885af7dd8e4d130
+=======
+>>>>>>> 8d7fe34 (2024 Robot Code)
     "javaDependencies": [
         {
             "groupId": "com.kauailabs.navx.frc",
             "artifactId": "navx-frc-java",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -47,6 +54,9 @@
 =======
             "version": "2023.0.4"
 >>>>>>> 8d7fe343c70282e1838ef663e885af7dd8e4d130
+=======
+            "version": "2023.0.4"
+>>>>>>> 8d7fe34 (2024 Robot Code)
         }
     ],
     "jniDependencies": [],
@@ -54,6 +64,7 @@
         {
             "groupId": "com.kauailabs.navx.frc",
             "artifactId": "navx-frc-cpp",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -67,6 +78,9 @@
 =======
             "version": "2023.0.4",
 >>>>>>> 8d7fe343c70282e1838ef663e885af7dd8e4d130
+=======
+            "version": "2023.0.4",
+>>>>>>> 8d7fe34 (2024 Robot Code)
             "headerClassifier": "headers",
             "sourcesClassifier": "sources",
             "sharedLibrary": false,
