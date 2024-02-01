@@ -2,6 +2,7 @@
     "fileName": "NavX.json",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "name": "NavX",
     "version": "2024.1.0",
     "uuid": "cb311d09-36e9-4143-a032-55bb2b94443b",
@@ -13,6 +14,8 @@
 =======
 =======
 >>>>>>> 8d7fe343c70282e1838ef663e885af7dd8e4d130
+=======
+>>>>>>> 8d7fe343c70282e1838ef663e885af7dd8e4d130
     "name": "KauaiLabs_navX_FRC",
     "version": "2023.0.4",
     "uuid": "cb311d09-36e9-4143-a032-55bb2b94443b",
@@ -21,6 +24,9 @@
     ],
     "jsonUrl": "https://dev.studica.com/releases/2023/NavX.json",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 8d7fe343c70282e1838ef663e885af7dd8e4d130
+=======
 >>>>>>> 8d7fe343c70282e1838ef663e885af7dd8e4d130
 =======
 >>>>>>> 8d7fe343c70282e1838ef663e885af7dd8e4d130
@@ -30,7 +36,11 @@
             "artifactId": "navx-frc-java",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "version": "2024.1.0"
+=======
+            "version": "2023.0.4"
+>>>>>>> 8d7fe343c70282e1838ef663e885af7dd8e4d130
 =======
             "version": "2023.0.4"
 >>>>>>> 8d7fe343c70282e1838ef663e885af7dd8e4d130
@@ -46,7 +56,11 @@
             "artifactId": "navx-frc-cpp",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "version": "2024.1.0",
+=======
+            "version": "2023.0.4",
+>>>>>>> 8d7fe343c70282e1838ef663e885af7dd8e4d130
 =======
             "version": "2023.0.4",
 >>>>>>> 8d7fe343c70282e1838ef663e885af7dd8e4d130

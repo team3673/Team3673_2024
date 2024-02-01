@@ -12,7 +12,11 @@ import edu.wpi.first.wpilibj2.command.FunctionalCommand;
 import edu.wpi.first.wpilibj2.command.InstantCommand;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import edu.wpi.first.wpilibj2.command.button.Trigger;
+=======
+import edu.wpi.first.wpilibj2.command.button.Button;
+>>>>>>> 8d7fe343c70282e1838ef663e885af7dd8e4d130
 =======
 import edu.wpi.first.wpilibj2.command.button.Button;
 >>>>>>> 8d7fe343c70282e1838ef663e885af7dd8e4d130
@@ -70,9 +74,15 @@ public class RobotContainer {
     //new Button(m_controller::getBackButton)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
    // new Trigger(m_leftStick::getTrigger)
             // No requirements because we don't need to interrupt anything
            // .onTrue(m_drivetrainSubsystem::zeroGyroscope);
+=======
+    new Button(m_leftStick::getTrigger)
+            // No requirements because we don't need to interrupt anything
+            .whenPressed(m_drivetrainSubsystem::zeroGyroscope);
+>>>>>>> 8d7fe343c70282e1838ef663e885af7dd8e4d130
 =======
     new Button(m_leftStick::getTrigger)
             // No requirements because we don't need to interrupt anything

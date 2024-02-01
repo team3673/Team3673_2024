@@ -116,7 +116,10 @@ public class DrivetrainSubsystem extends SubsystemBase {
     //m_frontLeftModule = Mk3SwerveModuleHelper.createFalcon500(
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 System.out.println("DrivetrainSubsystem:117 Initialing Front Left module with CAN IDs " + FRONT_LEFT_MODULE_DRIVE_MOTOR + " & " + FRONT_LEFT_MODULE_STEER_MOTOR);
+=======
+>>>>>>> 8d7fe343c70282e1838ef663e885af7dd8e4d130
 =======
 >>>>>>> 8d7fe343c70282e1838ef663e885af7dd8e4d130
 =======
